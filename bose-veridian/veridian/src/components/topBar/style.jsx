@@ -13,7 +13,6 @@ export const Styles = {
         borderBottom: "1px solid #CACFDB",
         paddinTop: "20px",
         paddingBottom: "0px",
-        display: "flex",
         
     },
 
