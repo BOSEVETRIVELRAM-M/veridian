@@ -40,17 +40,7 @@ export default function OurTeam() {
           // centeredSlides={true}
           spaceBetween={70}
           loop={true}
-          breakpoints={{
-            1024: {
-              slidesPerView: 0,
-              spaceBetween: 10
-            },
-            320: {
-              slidesPerView: 0,
-              spaceBetween: 10
-            }
-
-          }}
+          
           navigation={{
             prevEl: prevRef.current,
             nextEl: nextRef.current,

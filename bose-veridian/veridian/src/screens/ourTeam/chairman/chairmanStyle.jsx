@@ -29,7 +29,7 @@ export const Styles = {
         marginTop: "-104px",
         position: "relative",
         zIndex: 2,
-        transform: {lg: "skew(25deg)", xs: "none"},
+        transform: "skew(25deg)",
         
     },
 
